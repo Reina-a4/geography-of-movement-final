@@ -105,7 +105,7 @@ with left:
         size_max=34,
         zoom=7.0,
         center={"lat":33.86,"lon":35.80},
-        map_style="open-street-map",
+        map_style="carto-darkmatter",
         height=570,
     )
     fig.update_traces(marker={"opacity":0.82})
