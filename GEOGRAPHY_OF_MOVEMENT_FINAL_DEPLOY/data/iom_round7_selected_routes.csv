@@ -1,0 +1,64 @@
+origin,destination,reported_idps,origin_lat,origin_lon,destination_lat,destination_lon,source_page
+Borj Ech-Chemali,Beirut,8,33.28,35.232,33.8938,35.5018,4
+Sour,Beirut,5,33.27,35.203,33.8938,35.5018,4
+Khiyam Marjaayoun,Beirut,8,33.335,35.611,33.8938,35.5018,4
+Meri,Beirut,10,33.42,35.66,33.8938,35.5018,4
+Aadaysse Marjaayoun,Beirut,30,33.24,35.569,33.8938,35.5018,4
+Houla,Beirut,3,33.214,35.531,33.8938,35.5018,4
+Kfar Chouba,Beirut,303,33.342,35.663,33.8938,35.5018,4
+Hebbariye,Beirut,150,33.368,35.669,33.8938,35.5018,4
+Chebaa,Beirut,400,33.348,35.726,33.8938,35.5018,4
+Maarake,Beirut,50,33.289,35.325,33.8938,35.5018,4
+Tayr Debbe,Beirut,5,33.254,35.332,33.8938,35.5018,4
+Barich,Beirut,25,33.239,35.328,33.8938,35.5018,4
+Meiss Ej-Jabal,Beirut,58,33.167,35.519,33.8938,35.5018,4
+Yaroun,Beirut,5,33.079,35.423,33.8938,35.5018,4
+Kfar Hamam,Beirut,50,33.355,35.673,33.8938,35.5018,4
+Blat Marjaayoun,Beirut,35,33.371,35.577,33.8938,35.5018,4
+Laylake,Beirut,25,33.84,35.506,33.8938,35.5018,4
+Rachaiya El-Foukhar,Beirut,75,33.476,35.632,33.8938,35.5018,4
+Deir Mimas,Beirut,50,33.323,35.57,33.8938,35.5018,4
+Hmairi Sour,Beirut,50,33.19,35.273,33.8938,35.5018,4
+Kaoukaba Hasbaiya,Beirut,50,33.408,35.613,33.8938,35.5018,4
+Ouardiye,Beirut,25,33.57,35.46,33.8938,35.5018,4
+Kfar Kila,Beirut,128,33.278,35.551,33.8938,35.5018,4
+Aalma Ech-Chaab,Beirut,50,33.098,35.182,33.8938,35.5018,4
+Marjaayoun,Beirut,20,33.365,35.591,33.8938,35.5018,4
+Henniye,Beirut,20,33.213,35.209,33.8938,35.5018,4
+Mansouri Sour,Beirut,25,33.182,35.199,33.8938,35.5018,4
+Qlaile Sour,Beirut,50,33.195,35.23,33.8938,35.5018,4
+Zebqine,Beirut,25,33.167,35.279,33.8938,35.5018,4
+Chaqra,Beirut,5,33.191,35.432,33.8938,35.5018,4
+Aaychiye,Beirut,15,33.45,35.532,33.8938,35.5018,4
+Beirut,Baalbek,40,33.8938,35.5018,34.0047,36.211,2
+Beirut,Douris,20,33.8938,35.5018,33.984,36.206,2
+Beirut,Youmine,5,33.8938,35.5018,33.994,36.149,2
+Beirut,Bouday,15,33.8938,35.5018,34.076,36.145,2
+Beirut,Iaat,10,33.8938,35.5018,34.039,36.17,2
+Chiyah,Bouday,4,33.849,35.514,34.076,36.145,2
+Meiss Ej-Jabal,Baalbek,9,33.167,35.519,34.0047,36.211,2
+Hadath Beyrouth,Douris,5,33.832,35.535,33.984,36.206,2
+Haret Hreik,Douris,15,33.855,35.507,33.984,36.206,2
+Chiyah,Qsarnaba,10,33.849,35.514,33.912,36.16,2
+Yarine,Khodr Baalbek,5,33.12,35.182,34.023,36.31,2
+Aaita Ej-Jabal,Baalbek,3,33.163,35.377,34.0047,36.211,2
+Bourj El-Brajneh,Baalbek,2,33.851,35.503,34.0047,36.211,2
+Aadoussiye,Baalbek,15,33.442,35.358,34.0047,36.211,2
+Baabda,Bouday,20,33.835,35.541,34.076,36.145,2
+Haret Hreik,Bouday,30,33.855,35.507,34.076,36.145,2
+Laylake,Baalbek,40,33.84,35.506,34.0047,36.211,2
+Bourj Hammoud,Baalbek,20,33.897,35.543,34.0047,36.211,2
+Beirut,Hermel,15,33.8938,35.5018,34.393,36.383,2
+Kfar Roummane,Hermel,15,33.38,35.47,34.393,36.383,3
+Maarake,Hermel,5,33.289,35.325,34.393,36.383,3
+Haret Hreik,Hermel,80,33.855,35.507,34.393,36.383,3
+Haret Hreik,Hermel,60,33.855,35.507,34.393,36.383,3
+Laylake,Hermel,100,33.84,35.506,34.393,36.383,3
+Laylake,Hermel,50,33.84,35.506,34.393,36.383,3
+Haret Hreik,Hermel,45,33.855,35.507,34.393,36.383,3
+Chiyah,El Batroun,10,33.849,35.514,34.254,35.659,3
+Khiyam Marjaayoun,El Batroun,3,33.335,35.611,34.254,35.659,3
+Haret Hreik,El Koura,25,33.855,35.507,34.326,35.782,3
+Aalma Ech-Chaab,El Koura,5,33.098,35.182,34.326,35.782,3
+Bent Jbayl,Zgharta,50,33.116,35.437,34.399,35.893,3
+Maroun Er-Ras,Zgharta,10,33.091,35.436,34.399,35.893,3
